@@ -1,0 +1,26 @@
+Source: paper-icon-theme
+Section: x11
+Priority: optional
+Maintainer: Carlos Henrique Lima Melara <charlesmelara@outlook.com>
+Build-Depends: debhelper-compat (= 13), jdupes, meson (>= 0.40)
+Standards-Version: 4.5.0
+Rules-Requires-Root: no
+Homepage: https://snwh.org/paper
+Vcs-Git: https://salsa.debian.org/debian/paper-icon-theme.git
+Vcs-Browser: https://salsa.debian.org/debian/paper-icon-theme
+
+Package: paper-icon-theme
+Architecture: all
+Depends: ${misc:Depends}
+Description: simple and modern icon and cursor theme
+ Paper is a modern freedesktop icon theme whose design is based
+ around the use of bold colours and simple geometric shapes to
+ compose icons. Each icon has been meticulously designed for
+ pixel-perfect viewing.
+ .
+ While it does take some inspiration from the icons in Google's
+ Material Design, some aspects have been adjusted to better suit
+ a desktop environment.
+ .
+ This package not only contains the Paper icon theme but also the
+ Paper cursor theme, which is a complementary X11 cursor set.
