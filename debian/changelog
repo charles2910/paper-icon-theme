@@ -1,6 +1,7 @@
 paper-icon-theme (1.5.0+git20200312.aa3e8af-2) UNRELEASED; urgency=medium
 
   * Upload to unstable.
+  * debian/salsa-ci.yml: added to provide CI tests for Salsa.
 
  -- Carlos Henrique Lima Melara <charlesmelara@outlook.com>  Sun, 13 Sep 2020 23:51:00 -0300
 
