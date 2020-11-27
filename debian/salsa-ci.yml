@@ -2,3 +2,7 @@
 include:
   - https://salsa.debian.org/salsa-ci-team/pipeline/raw/master/salsa-ci.yml
   - https://salsa.debian.org/salsa-ci-team/pipeline/raw/master/pipeline-jobs.yml
+
+# Allow failure while #975684 isn't fixed
+reprotest:
+  allow_failure: true

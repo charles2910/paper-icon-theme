@@ -3,6 +3,7 @@ paper-icon-theme (1.5.0+git20200312.aa3e8af-3) UNRELEASED; urgency=medium
   * debian/control: bumped Standards-Version to 4.5.1.
   * debian/copyright: listed GPL-3 and GPL-3+ verbatim in different paragraphs
     as indicated by lintian.
+  * debian/salsa-ci.yml: allow reprotest failure while #975684 isn't fixed.
 
  -- Carlos Henrique Lima Melara <charlesmelara@outlook.com>  Sun, 22 Nov 2020 22:06:50 -0300
 
