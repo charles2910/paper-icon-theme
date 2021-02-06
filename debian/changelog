@@ -1,4 +1,4 @@
-paper-icon-theme (1.5.0+git20200312.aa3e8af-3) UNRELEASED; urgency=medium
+paper-icon-theme (1.5.0+git20200312.aa3e8af-3) unstable; urgency=medium
 
   * debian/control: bumped Standards-Version to 4.5.1.
   * debian/copyright:
@@ -7,7 +7,7 @@ paper-icon-theme (1.5.0+git20200312.aa3e8af-3) UNRELEASED; urgency=medium
       - Updated packaging copyright years.
   * debian/salsa-ci.yml: allow reprotest failure while #975684 isn't fixed.
 
- -- Carlos Henrique Lima Melara <charlesmelara@outlook.com>  Sun, 22 Nov 2020 22:06:50 -0300
+ -- Carlos Henrique Lima Melara <charlesmelara@outlook.com>  Sat, 06 Feb 2021 00:06:19 -0300
 
 paper-icon-theme (1.5.0+git20200312.aa3e8af-2) unstable; urgency=medium
 
