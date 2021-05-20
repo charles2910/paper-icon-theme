@@ -1,2 +1,2 @@
 version=4
-https://github.com/snwh/paper-icon-theme/releases .*/archive/v?\.?@ANY_VERSION@@ARCHIVE_EXT@
+https://github.com/snwh/paper-icon-theme/releases .*/v?\.?@ANY_VERSION@@ARCHIVE_EXT@
