@@ -3,7 +3,7 @@ Section: x11
 Priority: optional
 Maintainer: Carlos Henrique Lima Melara <charlesmelara@outlook.com>
 Build-Depends: debhelper-compat (= 13), jdupes, meson (>= 0.40)
-Standards-Version: 4.5.1
+Standards-Version: 4.6.0
 Rules-Requires-Root: no
 Homepage: https://snwh.org/paper
 Vcs-Git: https://salsa.debian.org/debian/paper-icon-theme.git
