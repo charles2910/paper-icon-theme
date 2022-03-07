@@ -7,4 +7,5 @@
 override_dh_auto_install:
 	dh_auto_install
 	# Remove duplicate files using softlinks
-	jdupes -lr debian/paper-icon-theme/usr/share/icons
+	find -type f -print0 debian/paper-icon-theme/usr/share/icons | \
+		sort -z | xargs -0r jdupes -Ol
