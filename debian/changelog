@@ -1,6 +1,7 @@
 paper-icon-theme (1.5.0+git20200312.aa3e8af-4) UNRELEASED; urgency=medium
 
   * debian/control: bumped Standards-Version to 4.6.1.
+  * debian/copyright: updated packaging copyright years.
   * debian/rules: added patch to build reproducible. Thanks to Chris Lamb.
     (Closes: #1005955)
   * debian/watch: updated regex accordingly to new github releases location.
