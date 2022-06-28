@@ -1,4 +1,4 @@
-paper-icon-theme (1.5.0+git20200312.aa3e8af-4) UNRELEASED; urgency=medium
+paper-icon-theme (1.5.0+git20200312.aa3e8af-4) unstable; urgency=medium
 
   * debian/control: bumped Standards-Version to 4.6.1.
   * debian/copyright: updated packaging copyright years.
@@ -6,7 +6,7 @@ paper-icon-theme (1.5.0+git20200312.aa3e8af-4) UNRELEASED; urgency=medium
     (Closes: #1005955)
   * debian/watch: updated regex accordingly to new github releases location.
 
- -- Carlos Henrique Lima Melara <charlesmelara@outlook.com>  Thu, 20 May 2021 11:42:19 -0300
+ -- Carlos Henrique Lima Melara <charlesmelara@outlook.com>  Sun, 17 Jul 2022 13:22:46 -0300
 
 paper-icon-theme (1.5.0+git20200312.aa3e8af-3) unstable; urgency=medium
 
